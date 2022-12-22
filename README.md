@@ -1,8 +1,8 @@
 # Notch-Delta-Coupling-Dynamics
 
-Interactive Epithelium (IEp, version 1.0.0) aims to provide a practical tool for testing parameter robustness while simulating the dynamics of the Notch-Delta signalling pathway in an epithelium.
-
 This code was partially developed to support the simulations presented in the preprint "Coupling dynamics of 2D Notch-Delta signalling", by Dr. Francisco Berkemeier and Prof. Karen page. For any questions please contact fp409@cam.ac.uk. All rights reserved.
+
+Interactive Epithelium (IEp, version 1.0.0) aims to provide a practical tool for testing parameter robustness while simulating the dynamics of the Notch-Delta signalling pathway in an epithelium.
 
 In order to correctly reproduce the simulations presented throughout the thesis, we suggest using Interactive Epithelium (IEp) in parallel with the 'MainCode.nb' notebook, since some of the plots are only achievable after data storage from simulations in IEp. When needed, a message in light blue will prompt the user to run a specific model in IEp, which needs to be loaded first. In order to load models in IEp, simply load the text files in \InteractiveEpithelium\Models corresponding to the different figures ('Model[Figure_label].txt').
 
