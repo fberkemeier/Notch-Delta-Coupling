@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Interactive Epithelium 1.0.0
+message: >-
+  A Mathematica tool for hybrid Notch-Delta
+  epithelial signalling and mechanical simulations
+type: software
+authors:
+  - given-names: Francisco
+    family-names: Berkemeier
+    email: fp409@cam.ac.uk
+    affiliation: >-
+      Department of Pathology, University of
+      Cambridge
+    orcid: 'https://orcid.org/0000-0001-9850-3666'
