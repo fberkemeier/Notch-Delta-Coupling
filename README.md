@@ -1,4 +1,4 @@
-# Notch-Delta-Coupling-Dynamics
+# Notch-Delta Coupling Dynamics
 
 This code was partially developed to support the simulations presented in the preprint "Coupling dynamics of 2D Notch-Delta signalling", by Dr. Francisco Berkemeier and Prof. Karen page. For any questions please contact fp409@cam.ac.uk. All rights reserved.
 
