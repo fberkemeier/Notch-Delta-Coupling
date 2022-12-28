@@ -11,5 +11,5 @@ For accurate performance, we recommend running each code section in the order th
 To run IEp open the notebook 'iEpithelium v1.0.0.nb' with Mathematica and scroll down to the 'iEpithelium' cell (in green). Evaluate this cell (Shift+Enter) and the remaining cells will be evaluated (click 'Yes' on the popup window). IEp was developed in Mathematica 13.0.1, so it is recommended that the same version is used.
 
 
-¹Department of Pathology, University of Cambridge, UK (fp409@cam.ac.uk)<br />
-²Department of Mathematics and IPLS, University College London, UK (karen.page@ucl.ac.uk)
+¹Department of Pathology, University of Cambridge, UK. Contact: fp409@cam.ac.uk<br />
+²Department of Mathematics and IPLS, University College London, UK. Contact: karen.page@ucl.ac.uk
