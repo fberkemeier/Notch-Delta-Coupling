@@ -1,6 +1,6 @@
 # Notch-Delta Coupling Dynamics
 
-This code was partially developed to support the simulations presented in the paper [*Coupling dynamics of 2D Notch-Delta signalling*](https://doi.org/10.1101/2022.12.27.521688), by Francisco Berkemeier¹ and Karen Page². For any questions regarding the code, please contact fp409@cam.ac.uk. All rights reserved.
+This code was partially developed to support the simulations presented in the paper [*Coupling dynamics of 2D Notch-Delta signalling*](https://www.sciencedirect.com/science/article/pii/S0025556423000536), by Francisco Berkemeier¹ and Karen Page². For any questions regarding the code, please contact fp409@cam.ac.uk. All rights reserved.
 
 *Interactive Epithelium* (IEp, version 1.0.0) aims to provide a practical tool for testing parameter robustness while simulating the dynamics of the Notch-Delta signalling pathway in an epithelium.
 
