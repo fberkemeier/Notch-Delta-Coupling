@@ -1,4 +1,4 @@
-# Notch-Delta Coupling Dynamics
+# Notch-Delta signalling in a 2D epithelium
 
 This code was partially developed to support the simulations presented in the paper [*Coupling dynamics of 2D Notch-Delta signalling*](https://www.sciencedirect.com/science/article/pii/S0025556423000536), by Francisco Berkemeier¹ and Karen M. Page². For any questions regarding the code, please contact fp409@cam.ac.uk. All rights reserved.
 
